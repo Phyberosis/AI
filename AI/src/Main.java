@@ -8,7 +8,7 @@ public class Main {
 	
 	public static void main(String arge[]) throws IOException{
 
-		// hi
+		// my username is better
 		taskHandler TH = new taskHandler();
 		TH.ini();
 		taskHandler.taskLst.add(tasks.ini);
