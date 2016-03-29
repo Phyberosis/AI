@@ -8,7 +8,7 @@ public class Main {
 	
 	public static void main(String arge[]) throws IOException{
 
-		// my username is better
+		// my username is better than yours
 		taskHandler TH = new taskHandler();
 		TH.ini();
 		taskHandler.taskLst.add(tasks.ini);
